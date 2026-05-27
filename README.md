@@ -1,6 +1,3 @@
-# rshiny-market-dashboard
-A simple R Shiny dashboard of economic data
-=======
 # R Shiny Market and Economic Dashboard
 
 This repository contains an R Shiny dashboard for displaying market and economic data.
