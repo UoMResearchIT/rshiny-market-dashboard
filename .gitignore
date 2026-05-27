@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # History files
 .Rhistory
 .Rapp.history
@@ -47,3 +48,10 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+=======
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+.DS_Store
+>>>>>>> 018e9ad (R Shiny market dashboard)
